@@ -1,4 +1,4 @@
-# Explore the impact of environmental conditions on marathon performance in gender
+# Evaluate baseline variables as predictors of abstinence
 
 **Background:** Smoking cessation remains a significant challenge, particularly for individuals with a history of major depressive disorder (MDD), who often experience higher nicotine dependence and more severe withdrawal symptoms. This study investigates the moderating effects of baseline factors, including behavioral activation (BA) and pharmacotherapy (varenicline), on smoking abstinence outcomes in this high-risk population.
 
